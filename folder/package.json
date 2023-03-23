@@ -1,0 +1,14 @@
+{
+  "name": "ci",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:mauriciosoares/ci.git",
+  "author": "Mauricio Soares <m.soares2603@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "vitest": "^0.29.7"
+  },
+  "scripts": {
+    "test": "vitest run"
+  }
+}
