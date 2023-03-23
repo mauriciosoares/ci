@@ -19,4 +19,4 @@ jobs:
 
       - name: Build
         run: |
-          yarn install && yarn test:ci
+          yarn install && yarn test
